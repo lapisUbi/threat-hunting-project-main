@@ -1,0 +1,207 @@
+[
+  {
+    "ip": "45.129.137.233",
+    "note": "no data in Shodan"
+  },
+  {
+    "ip": "141.98.9.137",
+    "note": "no data in Shodan"
+  },
+  {
+    "cpes": [
+      "cpe:/o:canonical:ubuntu_linux",
+      "cpe:/a:openbsd:openssh:9.6p1"
+    ],
+    "hostnames": [],
+    "ip": "206.188.197.22",
+    "ports": [
+      22
+    ],
+    "tags": [],
+    "vulns": []
+  },
+  {
+    "cpes": [
+      "cpe:/a:openbsd:openssh:9.6p1",
+      "cpe:/o:canonical:ubuntu_linux"
+    ],
+    "hostnames": [],
+    "ip": "168.100.9.137",
+    "ports": [
+      22
+    ],
+    "tags": [],
+    "vulns": []
+  },
+  {
+    "ip": "185.17.40.178",
+    "note": "no data in Shodan"
+  },
+  {
+    "cpes": [
+      "cpe:/a:python:python:3.7",
+      "cpe:/o:debian:debian_linux",
+      "cpe:/o:linux:linux_kernel",
+      "cpe:/a:openbsd:openssh:10.0p2"
+    ],
+    "hostnames": [],
+    "ip": "193.201.9.224",
+    "ports": [
+      1050,
+      24442
+    ],
+    "tags": [],
+    "vulns": [
+      "CVE-2024-9287",
+      "CVE-2026-4519",
+      "CVE-2019-9674",
+      "CVE-2024-6232",
+      "CVE-2026-4224",
+      "CVE-2026-15308",
+      "CVE-2022-26488",
+      "CVE-2021-28861",
+      "CVE-2026-3644",
+      "CVE-2023-36632",
+      "CVE-2025-12084",
+      "CVE-2024-7592",
+      "CVE-2025-13836",
+      "CVE-2026-7210",
+      "CVE-2025-13462",
+      "CVE-2025-13837",
+      "CVE-2009-3720",
+      "CVE-2025-6075",
+      "CVE-2025-12781",
+      "CVE-2023-27043",
+      "CVE-2009-2940",
+      "CVE-2022-45061",
+      "CVE-2026-6019",
+      "CVE-2026-0864",
+      "CVE-2023-24329",
+      "CVE-2026-3087",
+      "CVE-2020-29396",
+      "CVE-2018-20406",
+      "CVE-2022-37454",
+      "CVE-2023-40217"
+    ]
+  },
+  {
+    "ip": "192.229.221.95",
+    "note": "no data in Shodan"
+  },
+  {
+    "cpes": [
+      "cpe:/a:amazon:elastic_load_balancing",
+      "cpe:/a:cloudflare:cloudflare"
+    ],
+    "hostnames": [
+      "dev.maconbibb.us",
+      "elections.maconbibb.us",
+      "maconbibb.us"
+    ],
+    "ip": "104.21.1.180",
+    "ports": [
+      80,
+      443,
+      2052,
+      2053,
+      2082,
+      2083,
+      2086,
+      2087,
+      2095,
+      2096,
+      8080,
+      8443,
+      8880
+    ],
+    "tags": [
+      "cdn"
+    ],
+    "vulns": []
+  },
+  {
+    "cpes": [
+      "cpe:/a:amazon:elastic_load_balancing",
+      "cpe:/a:cloudflare:cloudflare",
+      "cpe:/a:litespeedtech:litespeed_web_server"
+    ],
+    "hostnames": [
+      "ruralmetrowny.com",
+      "elections.maconbibb.us"
+    ],
+    "ip": "172.67.129.176",
+    "ports": [
+      80,
+      443,
+      2052,
+      2082,
+      2083,
+      2086,
+      2087,
+      2095,
+      2096,
+      8080,
+      8443,
+      8880
+    ],
+    "tags": [
+      "cdn"
+    ],
+    "vulns": []
+  },
+  {
+    "ip": "81.19.135.219",
+    "note": "no data in Shodan"
+  },
+  {
+    "ip": "81.19.135.220",
+    "note": "no data in Shodan"
+  },
+  {
+    "ip": "81.19.135.226",
+    "note": "no data in Shodan"
+  },
+  {
+    "ip": "62.233.50.25",
+    "note": "no data in Shodan"
+  },
+  {
+    "cpes": [
+      "cpe:/a:f5:nginx:1.30.3"
+    ],
+    "hostnames": [
+      "temp.sh",
+      "vps-6853bc8f.vps.ovh.net"
+    ],
+    "ip": "51.91.79.17",
+    "ports": [
+      80,
+      443
+    ],
+    "tags": [],
+    "vulns": []
+  },
+  {
+    "cpes": [
+      "cpe:/a:f5:nginx:1.31.1"
+    ],
+    "hostnames": [
+      "neurex.love",
+      "fromblancwithlove.com"
+    ],
+    "ip": "185.229.191.41",
+    "ports": [
+      81,
+      443,
+      2083,
+      8080,
+      8442,
+      8443,
+      9000
+    ],
+    "tags": [
+      "proxy"
+    ],
+    "vulns": []
+  }
+]

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="284" font-family="Arial" font-size="13">
+<rect width="640" height="284" fill="white"/>
+<text x="10" y="24" font-size="16" font-weight="bold">Financial sector ransomware victims by year</text>
+<text x="142" y="57" text-anchor="end">2020</text>
+<rect x="150" y="40" width="13" height="24" fill="#c0504d"/>
+<text x="169" y="57">15</text>
+<text x="142" y="89" text-anchor="end">2021</text>
+<rect x="150" y="72" width="74" height="24" fill="#c0504d"/>
+<text x="230" y="89">88</text>
+<text x="142" y="121" text-anchor="end">2022</text>
+<rect x="150" y="104" width="117" height="24" fill="#c0504d"/>
+<text x="273" y="121">139</text>
+<text x="142" y="153" text-anchor="end">2023</text>
+<rect x="150" y="136" width="278" height="24" fill="#c0504d"/>
+<text x="434" y="153">331</text>
+<text x="142" y="185" text-anchor="end">2024</text>
+<rect x="150" y="168" width="274" height="24" fill="#c0504d"/>
+<text x="430" y="185">326</text>
+<text x="142" y="217" text-anchor="end">2025</text>
+<rect x="150" y="200" width="430" height="24" fill="#c0504d"/>
+<text x="586" y="217">512</text>
+<text x="142" y="249" text-anchor="end">2026</text>
+<rect x="150" y="232" width="341" height="24" fill="#c0504d"/>
+<text x="497" y="249">406</text>
+</svg>

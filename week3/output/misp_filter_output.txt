@@ -1,0 +1,49 @@
+
+== All network IOCs (IPs, domains, URLs) to block: 32 results
+   domain   connectzoomdownload.com
+   domain   guerdofest.com
+   domain   zoom.voyage
+   domain   qweastradoc.com
+   domain   jirostrogud.com
+   ...
+
+== SHA-256 hashes of Akira files (for EDR): 42 results
+   sha256   c0f706ff43936c1bb19db4f39b11129c3fc8ddafbd159852475ef99a246b2f79
+   sha256   40221e1c2e0c09bc6104548ee847b6ec790413d6ece06ad675fff87e5b8dc1d5
+   sha256   cfa209d56e296c40b32815270060e539963d68cda3285c5f393c97eb3c960d37
+   sha256   4cb8365b18b1c319d374be0b9d219144c20fb8714e9cf346e655f854d2c60170
+   sha256   7f731cc11f8e4d249142e99a44b9da7a48505ce32c4ee4881041beeddb3760be
+   ...
+
+== Everything from the Clop MOVEit report: 125 results
+   domain   connectzoomdownload.com
+   domain   guerdofest.com
+   domain   zoom.voyage
+   domain   qweastradoc.com
+   domain   jirostrogud.com
+   ...
+
+== Only detection IOCs, file names excluded: 236 results
+   md5      3d55ec08f082e2f149216c6cd60e0fdf
+   md5      de8f808ba308e34097afa5c3136a0640
+   md5      a18d79e94229fdf02ef091cf974ed546
+   md5      0f7b6bb3a239cf7a668a8625e6332639
+   md5      603d91d52be2d92e2d67866d06272fb0
+   ...
+
+== Firewall blocklist: 15 IPs
+104.21.1.180
+141.98.9.137
+168.100.9.137
+172.67.129.176
+185.17.40.178
+185.229.191.41
+192.229.221.95
+193.201.9.224
+206.188.197.22
+45.129.137.233
+51.91.79.17
+62.233.50.25
+81.19.135.219
+81.19.135.220
+81.19.135.226
