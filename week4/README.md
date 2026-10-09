@@ -2,7 +2,7 @@
 
 ## Metadata
 
-- **Group Topic:** [Insert Your Group Topic Here]
+- **Group Topic:**  ransomware threats to the financial sector of Kazakhstan Course:
 - **Incident:** SolarWinds Orion / SUNBURST supply-chain compromise (APT29)
 - **Frameworks:** Lockheed Martin Cyber Kill Chain; MITRE ATT&CK Enterprise
 - **Scope note:** The Kill Chain is a linear analytical model; ATT&CK records tactics and techniques that can overlap across stages. Mappings below prioritize publicly reported SolarWinds activity and identify analytical mappings where public reporting does not establish a discrete stage.
@@ -63,11 +63,6 @@ APT29 used compromised credentials, forged SAML tokens, and cloud access to acce
 - Operate an iterative intelligence feedback loop: collection improves analysis, analysis directs defenses, and defensive results generate new collection requirements.
 - Use threat-driven analysis to prioritize security investments and assess defensive effectiveness against the adversary's demonstrated behavior.
 
-## Deliverable Placeholders
-
-![Kill Chain Diagram](./images/kill_chain_map.png)
-
-> 🎥 **Video Demo:** [Link to recording]
 
 ## References
 
